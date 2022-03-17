@@ -4,6 +4,7 @@
 - [ x ] fontawesome/google icons
 - [ x ] theme-color
 - [ x ] favicon  
+- [ x ] type="module
 
 # CSS
 
